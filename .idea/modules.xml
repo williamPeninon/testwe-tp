@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/symfony-rest-api.iml" filepath="$PROJECT_DIR$/.idea/symfony-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test-php-cinema/.idea/test-php-cinema.iml" filepath="$PROJECT_DIR$/../test-php-cinema/.idea/test-php-cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testwe_project/.idea/testwe_project.iml" filepath="$PROJECT_DIR$/../testwe_project/.idea/testwe_project.iml" />
+    </modules>
+  </component>
+</project>
