@@ -38,9 +38,8 @@ class UpdatePosterController extends AbstractController
             ->getQuery()
             ->getArrayResult();
 
-        $result = $this->rapidApiService->getMoviesCover($aMoviesWithoutPoster, $em);
+        $result = $this->rapidApiService->getMoviesCover($aMoviesWithoutPoster);
 
         return new JsonResponse($result);
     }
-
 }
